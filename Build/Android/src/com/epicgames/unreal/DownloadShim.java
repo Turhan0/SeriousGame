@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.YourCompany.SeriousGame.OBBDownloaderService;
-import com.YourCompany.SeriousGame.DownloaderActivity;
+import com.ByDEFAULTGames.SeriousGame.OBBDownloaderService;
+import com.ByDEFAULTGames.SeriousGame.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.SeriousGame.OBBData;
+import com.ByDEFAULTGames.SeriousGame.OBBData;
 
 
 public class DownloadShim

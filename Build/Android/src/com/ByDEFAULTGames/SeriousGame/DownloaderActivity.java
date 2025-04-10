@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.SeriousGame;
+package com.ByDEFAULTGames.SeriousGame;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

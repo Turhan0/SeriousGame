@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.SeriousGame;
+package com.ByDEFAULTGames.SeriousGame;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
