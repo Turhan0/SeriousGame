@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ByDEFAULTGames.SeriousGame;
+package com.ByDEFAULTGames.TinyEarthkeepers;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

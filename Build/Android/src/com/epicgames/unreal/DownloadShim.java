@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.ByDEFAULTGames.SeriousGame.OBBDownloaderService;
-import com.ByDEFAULTGames.SeriousGame.DownloaderActivity;
+import com.ByDEFAULTGames.TinyEarthkeepers.OBBDownloaderService;
+import com.ByDEFAULTGames.TinyEarthkeepers.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.ByDEFAULTGames.SeriousGame.OBBData;
+import com.ByDEFAULTGames.TinyEarthkeepers.OBBData;
 
 
 public class DownloadShim

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ByDEFAULTGames.SeriousGame;
+package com.ByDEFAULTGames.TinyEarthkeepers;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

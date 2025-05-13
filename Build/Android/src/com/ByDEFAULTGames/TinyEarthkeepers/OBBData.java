@@ -1,4 +1,4 @@
-package com.ByDEFAULTGames.SeriousGame;
+package com.ByDEFAULTGames.TinyEarthkeepers;
 
 public class OBBData
 {
@@ -19,7 +19,7 @@ public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
 "1", // the version of the APK that the file was uploaded against
-448896595L // the length of the file in bytes
+571097517L // the length of the file in bytes
 )
 };
 };

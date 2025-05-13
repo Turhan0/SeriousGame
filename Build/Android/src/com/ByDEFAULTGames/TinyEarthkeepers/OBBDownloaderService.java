@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ByDEFAULTGames.SeriousGame;
+package com.ByDEFAULTGames.TinyEarthkeepers;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.ByDEFAULTGames.SeriousGame.AlarmReceiver.class.getName();
+        return com.ByDEFAULTGames.TinyEarthkeepers.AlarmReceiver.class.getName();
     }
 }
